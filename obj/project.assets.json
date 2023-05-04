@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\labs2022-2023\\lab2-PM\\lab2-PM\\lab2-PM.csproj",
-      "projectName": "lab2-PM",
-      "projectPath": "D:\\labs2022-2023\\lab2-PM\\lab2-PM\\lab2-PM.csproj",
+      "projectUniqueName": "D:\\labs2022-2023\\lab2-PM\\lab2-PM\\CircularLinkedList.csproj",
+      "projectName": "CircularLinkedList",
+      "projectPath": "D:\\labs2022-2023\\lab2-PM\\lab2-PM\\CircularLinkedList.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "D:\\labs2022-2023\\lab2-PM\\lab2-PM\\obj\\",
       "projectStyle": "PackageReference",
