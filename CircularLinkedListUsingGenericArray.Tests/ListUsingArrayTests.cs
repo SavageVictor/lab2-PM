@@ -143,4 +143,13 @@ public class CircularLinkedListArrayTests
         Assert.AreEqual('e', list1.Get(4));
         Assert.AreEqual('f', list1.Get(5));
     }
+
+    [Test]
+    public void Test_Wrong()
+    {
+        CircularLinkedListArray list = new CircularLinkedListArray();
+        list.Append('a');
+
+        Assert.AreEqual('f', list.Get(0));
+    }
 }
